@@ -1,1 +1,1 @@
-This repository contains the code for the project interface, as well as the web application for connecting to the microcontroller.
+Sensor Box Project: Develop a system capable of simulating fault conditions in ultrasonic sensors. This repository contains the code for the project interface, as well as the web application for connecting to the microcontroller.
